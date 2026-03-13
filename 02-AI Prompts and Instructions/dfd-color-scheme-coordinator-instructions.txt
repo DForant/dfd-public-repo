@@ -60,7 +60,7 @@ A description and use case for the color
 
 The 5 chromatic steps (1–5) 
 
-For Each Chromatic Step
+For Each Chromatic Step Include:
 
 
 
@@ -183,8 +183,6 @@ The format should be as follows
 }
 
 
-
-Add a $description property for step 3 that will hold the description field value
 
 
 
